@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_flex"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/flex_title" />
+        <item
+            android:id="@+id/nav_sport"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/sporting_title" />
+
+        <item
+            android:id="@+id/nav_merchandise"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/merchandise_title" />
+        <item
+            android:id="@+id/nav_scout"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/scout_title" />
+
+    </group>
+
+    <item android:title="Communicate">
+        </item>
+ </menu>

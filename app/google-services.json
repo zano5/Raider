@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "159916086974",
+    "firebase_url": "https://raider-2a10f.firebaseio.com",
+    "project_id": "raider-2a10f",
+    "storage_bucket": "raider-2a10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159916086974:android:cd5aa9bc68f2084a",
+        "android_client_info": {
+          "package_name": "raiderzfit.co.za.raider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159916086974-itm3hrt0rigabkbv578oio0v6tm87cvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "raiderzfit.co.za.raider",
+            "certificate_hash": "6962F884FAEE2DB1F6300F8B77A4A72610B75463"
+          }
+        },
+        {
+          "client_id": "159916086974-bibpuhlg572ukthov0e97hs01o2kaj82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2itWIy-L8iCy_wIxXFFSX7HEWM8Vc5RQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159916086974-bibpuhlg572ukthov0e97hs01o2kaj82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
